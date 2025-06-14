@@ -40,7 +40,7 @@ A rugged, compact bio-reaction unit equipped with:
 Licensed under the [Apache 2.0 License](LICENSE).  
 This project is open for anyone to build, remix, or monetize — just give credit and don’t sue the creator if your piss pills explode.
 
-> 💡 If Regeniforge saves your life, makes you money, or earns you glory — consider buying defcon a coffee or building a shrine in the woods.
+> 💡 If Regeniforge is something you want to make a reality, help me pay for the hole in my roof, consider supporting me in other ways, god I hate begging but I wasn't a winner in the birth lotto.
 
 ---
 
